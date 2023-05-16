@@ -1,6 +1,7 @@
 # Exam #2: "Indovinelli"
+Made for Politecnico di Torino - Web Application I Course
 
-## Student: s302094 ANDRIANO DAVIDE
+## ANDRIANO DAVIDE
 
 ## React Client Application Routes
 
